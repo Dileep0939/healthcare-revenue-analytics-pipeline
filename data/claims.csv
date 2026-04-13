@@ -1,0 +1,4 @@
+claim_id,patient_id,billed_amount,paid_amount,denial_flag
+101,1,1000,800,0
+102,1,500,0,1
+103,2,700,700,0
